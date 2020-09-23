@@ -6,7 +6,7 @@ This example show how to secure an application that uses GraphQL and Spring Boot
 ![Screenshot](https://raw.githubusercontent.com/thomasdarimont/spring-boot-keycloak-graphql-demo/master/screenshot.png "Screenshot")
 
 This demo application is inspired by [oktadeveloper/okta-graphql-java-example](https://github.com/oktadeveloper/okta-graphql-java-example).
-You can find a recording of [Matt Raible](https://github.com/mraible) [demo on youtube](https://www.youtube.com/watch?v=y_OjfgZa58k&feature=youtu.be) 
+You can find a recording of [Matt Raible's](https://github.com/mraible) [demo on youtube](https://www.youtube.com/watch?v=y_OjfgZa58k&feature=youtu.be) 
 
 # Build
 ```
